@@ -4,7 +4,7 @@ A simple page to capture names and emails.
 
 ## Site preview
 
-You can view the site [here](https://samueltessaro.github.io/company-website/index.html).
+You can view the site [here](#).
 
 ## Built With
 
