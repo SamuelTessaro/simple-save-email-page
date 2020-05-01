@@ -4,7 +4,7 @@ A simple page to capture names and emails.
 
 ## Site preview
 
-You can view the site [here](#).
+You can view the site [here](https://samueltessaro.github.io/simple-save-email-page/).
 
 ## Built With
 
