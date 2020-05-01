@@ -1,0 +1,91 @@
+$bg-color: #BF0A30;
+$bg-rodape-color: #BF0A30;
+$cor-fundo-titles: #BF0A30;
+$cor-text-titles: white;
+$dist-top: 3%;
+$dist-lado: 10%;
+body {
+    position: relative;
+    background-color: $bg-color;
+    background-position: center;
+    background-image: url("../img/flag-usa-2.jpg");
+    background-repeat: repeat-x top center;
+    ;
+    font-family: 'Comfortaa', cursive;
+}
+
+.titles {
+    background-color: $cor-fundo-titles;
+    color: $cor-text-titles;
+    padding-top: $dist-top;
+    h2 {
+        padding-top: $dist-top;
+    }
+}
+
+.formulario-captura {
+    padding-top: $dist-top;
+    padding-right: $dist-lado;
+    padding-left: $dist-lado;
+}
+
+h3,
+h4 {
+    color: $cor-text-titles;
+    background-color: $bg-color;
+}
+
+label {
+    color: $cor-text-titles;
+}
+
+p {
+    color: $cor-text-titles;
+}
+
+.abaixo {
+    background-color: $bg-rodape-color;
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.fadeIn {
+    -webkit-animation: fadeIn 3s ease-in-out;
+    -moz-animation: fadeIn 3s ease-in-out;
+    -o-animation: fadeIn 3s ease-in-out;
+    animation: fadeIn 3s ease-in-out;
+}
