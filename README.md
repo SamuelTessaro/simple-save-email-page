@@ -1,4 +1,4 @@
-# Simple save email page
+# Simple save email page - Capture page
 
 A simple page to capture names and emails.
 
