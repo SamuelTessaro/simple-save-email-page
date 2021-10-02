@@ -8,7 +8,7 @@ You can view the site [here](https://samueltessaro.github.io/simple-save-email-p
 
 ## Built with
 
-* HTML and CSS (SCSS).
+* HTML and CSS (SCSS);
 * [Bootstrap](https://getbootstrap.com/).
 
 ## Authors
